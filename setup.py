@@ -8,7 +8,7 @@ setup(
     long_description_content_type='text/markdown',
     author='Mattia Capuano AKA: Ametisto',
     author_email='mattia.capuano1508@gmail.com',
-    url='https://github.com/tuonome/morse_python',
+    url='https://github.com/ame-tisto/morse_python',
     packages=find_packages(),
     install_requires=[],
     classifiers=[
