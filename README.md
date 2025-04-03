@@ -1,4 +1,5 @@
 **_MORSE + PYTHON!_**
+![PyPI version](https://badge.fury.io/py/morse-python.svg)
 
 this library lets developers that know morse code flex their skill...coding in morse code!
 
