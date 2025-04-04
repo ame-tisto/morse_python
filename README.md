@@ -1,9 +1,19 @@
-**_MORSE + PYTHON!_**
-![PyPI version](https://badge.fury.io/py/morse-python.svg)
+# Morse Python!🚀
 
-this library lets developers that know morse code flex their skill...coding in morse code!
+[![PyPI version](https://img.shields.io/pypi/v/morse_python.svg)](https://pypi.org/project/morse_python/)
+[![Downloads](https://pepy.tech/badge/morse_python)](https://pepy.tech/project/morse_python)
+[![License](https://img.shields.io/github/license/ame-tisto/morse_python)](https://github.com/ame-tisto/morse_python/blob/main/LICENSE)
 
-in this version (v0.1) you can:     
-transform morse to text with `morse_to_text`  
-transform text to morse with `text_to_morse`  
-execute morse text with `execute_morse_code`
+This library lets developers that know morse code flex their skill...coding in morse code!
+
+## Installation⚙️
+How to install it? Simple! Just use **pip**!
+```bash
+pip install morse-python
+```
+## Features✨
+
+In this version (v1.0) you can:     
+transform morse code to text with ```morse_to_text```  
+transform text to morse code with ```text_to_morse```  
+execute morse code text with ```execute_morse_code```
