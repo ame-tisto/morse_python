@@ -16,4 +16,5 @@ pip install morse-python
 In this version (v1.0) you can:     
 transform morse code to text with ```morse_to_text```  
 transform text to morse code with ```text_to_morse```  
-execute morse code text with ```execute_morse_code```
+execute morse code text with ```execute_morse_code```   
+play your morse code as an audio with ```play_morse_code```
