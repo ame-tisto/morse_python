@@ -13,7 +13,7 @@ pip install morse-python
 ```
 ## Features✨
 
-In this version (v1.0) you can:     
+In this version (v1.1) you can:     
 transform morse code to text with ```morse_to_text```  
 transform text to morse code with ```text_to_morse```  
 execute morse code text with ```execute_morse_code```   
